@@ -1,45 +1,35 @@
-# Hi, I'm Sahana! 👋
+# Hi there, I'm Sahana! 👋
 
 🎓 First-Year Information Technology Student  
-💻 Aspiring Software Developer | Lifelong Learner
+🌱 Exploring Technology and Software Development
 
 ## 👩‍💻 About Me
 
-I'm Sahana, a first-year Information Technology student with a Bio-Maths background, exploring the world of programming and technology.
+I'm a first-year Information Technology student passionate about exploring technology, learning new skills, and building a strong foundation in programming and computer science.
 
-- 🐍 Learning Python programming
-- 💻 Exploring C programming
-- 🌐 Interested in Web Development
-- 🚀 Exploring Hackathons and Innovation
-- 🧩 Passionate about Problem-Solving
-- 📚 Love Reading Books and Crafting
-- 🎯 Aspiring to become a skilled IT professional
+- 💻 Learning C and Python programming.
+- 🧠 Improving problem-solving and logical thinking skills.
+- 🔐 Interested in Software Development and Cybersecurity.
+- 🚀 Exploring practical projects and hands-on learning.
+- 🌱 Always eager to learn new technologies and grow.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
-- **Languages:** Python, C
-- **Web Technologies:** HTML, CSS
-- **Tools:** VS Code, GitHub
-- **Currently Learning:** Programming, Git, and Software Development
+- **Languages:** C, Python
+- **Tools:** Visual Studio Code, GitHub
+- **Interests:** Software Development, Cybersecurity
 
-## 🚀 Projects
+## 🎯 Goals
 
-- 🎮 Python Games and Interactive Applications
-- 🖼️ Image Processing and Colour Inversion
-- 💡 Beginner Programming Projects
+- Strengthen programming fundamentals.
+- Build projects and gain practical experience.
+- Explore different IT domains.
+- Continuously improve technical skills.
 
-## 🌱 My Goals
+## 🌐 Let's Connect
 
-- Build real-world projects
-- Improve my coding and problem-solving skills
-- Participate in hackathons and technical events
-- Collaborate with developers and learners
-- Continuously explore new technologies
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sahana-n-89b403433/
+- 💼 [LinkedIn](https://www.linkedin.com/in/sahana-n-89b403433/)
 
 ---
 
-⭐ Learning, Building, and Growing Every Day!
+✨ *Learning, building, and growing one step at a time!*
